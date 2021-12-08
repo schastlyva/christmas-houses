@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Інструкція
 
-You can use the [editor on GitHub](https://github.com/schastlyva/christmas-houses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Christmas Houses](./images/image001.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Складання будинку
 
-### Markdown
+### ЗВЕРНІТЬ УВАГУ
+- Лицева сторона – це та, на якій не видно смужок для згинання. 
+- За потреби розмальовуйте саме лицеву сторону будинку.
+- Двері будинку можуть бути вигнуті у будь-яку сторону за вашим бажанням.
+- Електронні свічки (за наявності у комплекті) розміщуються у середині будинку.
+- Наведена нижче схема складання підходить для обох будинків.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Покрокова інструкція
 
-```markdown
-Syntax highlighted code block
+1. За допомогою фарб та пензлика, розфарбуйте лицеві сторони будинку за вашим смаком та дочекайтесь поки фарба висохне. У зібраному стані, фарбувати будинок буде складніше.
+2. Зігніть частини будинку по лініям для згинання. ![](./images/image003.jpg)
+3. Змастіть клеєм смужку для склеювання та склейте дві частини будинку між собою. ![](./images/image005.jpg)
+4. Pмастіть клеєм та склейте дві частини будинку з іншої сторони. ![](./images/image007.jpg)
+5. Зігніть дах по лінії згинання та покладіть його на стіл. 
+**НЕ НАМАЗУЮЧИ КЛЕЄМ**, прикладіть будинок до даху та олівцем відмітьте місця, де має буди приклеєно будинок до даху. ![](./images/image009.jpg)
+6. Змастіть смужки для склеювання даху з однієї сторони будинку. ![](./images/image011.jpg)
+7. Прикладіть змазані смужки до даху у позначених місцях. Переконайтесь, що будинок закінчується на лінії згинання даху. З середини будинку притисніть пальцями смужки для склеювання, щоб гарно приклеїти будинок до даху. ![](./images/image013.jpg)
+8. Змастіть смужки для приклеювання даху з іншої сторони. ![](./images/image015.jpg)
+9. Знову покладіть будинок дахом на стіл та притисніть смужки для склеювання до даху зсередини будинку. ![](./images/image017.jpg)
+10.	Будинок зібрано. Великий будинок збирається за такою ж схемою. ![](./images/image019.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Додатково для малого будинку з димовою трубою
 
-- Bulleted
-- List
+11.	Зігніть тіло димової труби по смужкам для згинання та склейте найвужчу її частину. ![](./images/image021.jpg)	
+12.	Зігніть по смужкам для згинання верхівку димової труби.	![](./images/image023.jpg)
+13.	По черзі змастіть клеєм та приклейте бокові кути димової труби до його сторін. ![](./images/image025.jpg)
+14.	Знайдіть у даху будинку прорізи для труби. Вставте її у прорізи. ![](./images/image027.jpg)
+15.	Щільно, але обережно притягніть димову трубу до даху будинку зсередини.	![](./images/image029.jpg)
+16.	Вдягніть шапку димової труби. ![](./images/image031.jpg)
 
-1. Numbered
-2. List
+## Складання ялинки
 
-**Bold** and _Italic_ and `Code` text
+### ЗВЕРНІТЬ УВАГУ
+- Елементи ялинки мають згинатись у бік лицевої сторони, тобто, у протилежний бік до згинання будинків.
+- Ніжка ялинки має бути склеєна якомога рівніше для підтримування рівноваги.
 
-[Link](url) and ![Image](src)
+### Покрокова існтрукція
+ 
+1. Зігніть три елементи ялинки по вертикалі у протилежний бік до лінії згинання. ![](./images/image033.jpg)
+2. Повністю змастіть клеєм тильну сторону однієї частини ялинки та приклейте до неї дві інші частини ялинки чорновою стороною. ![](./images/image035.jpg)
+3. Склейте між собою чорнові частини ялинки що залишились. ![](./images/image037.jpg)
+4. Має вийти ялинка з трьома сторонами.	![](./images/image039.jpg)
+5. Розмістить ялинку поруч з будинком. Композиція готова! Гарних свят! ![](./images/image041.jpg)
+
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schastlyva/christmas-houses/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Євгенія Счастлива
+Instagram: @janepopcorn
+Телефон: +380 96 366 8456
+```
