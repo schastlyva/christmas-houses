@@ -1,17 +1,15 @@
-# Instructions
-
 ![Christmas Houses](./images/image001.jpg)
 
-## House Assembly
+# House Assembly
 
-### PLEASE NOTE
+## PLEASE NOTE
 - The front side is the one where folding strips are not visible.
 - If needed, color only the front side of the house.
 - The house doors can be bent in any direction as you wish.
 - Electronic candles (if included in the set) are placed inside the house.
 - The assembly scheme below works for both houses.
 
-### Step-by-step Instructions
+## Step-by-step Instructions
 
 1. Using paints and a brush, **color the front sides of the house** to your taste and wait for the paint to dry. It will be more difficult to paint the house when it's assembled.
 2. Bend the house parts along the folding lines. ![](./images/image004.jpg)
@@ -24,7 +22,7 @@
 9. Again, place the house with the roof on the table and press the adhesive strips to the roof from inside the house. ![](./images/image018.jpg)
 10. The house is assembled. The large house is assembled using the same scheme. ![](./images/image020.jpg)
 
-### Additional Steps for Small House with Chimney
+## Additional Steps for Small House with Chimney
 
 11. Bend the chimney base along the folding strips and glue its narrowest part. ![](./images/image022.jpg)
 12. Bend the chimney top along the folding strips. ![](./images/image024.jpg)
@@ -33,20 +31,18 @@
 15. Firmly but carefully pull the chimney towards the house roof from the inside. ![](./images/image030.jpg)
 16. Put on the chimney cap. ![](./images/image032.jpg)
 
-## Christmas Tree Assembly
+# Christmas Tree Assembly
 
-### PLEASE NOTE
+## PLEASE NOTE
 
 - The tree stem should be glued as evenly as possible to maintain balance.
 
-### Step-by-step Instructions
+## Step-by-step Instructions
 
 1. Bend the three tree elements vertically. ![](./images/image034.jpg)
 2. You should have three identical tree parts in your hands. Apply glue to each of them on one side and connect all three parts. ![](./images/image036.jpg) ![](./images/image038.jpg)
 3. You should end up with a tree with three sides. ![](./images/image040.jpg)
 4. Place the tree next to the house. The composition is ready! Happy holidays! ![](./images/image042.jpg)
 
-```
 Ievgeniia Schastlyva
 Instagram: [@janepopcorn](https://www.instagram.com/janepopcorn/)
-```
